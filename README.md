@@ -6,4 +6,5 @@ We have also chosen to fine tune the last block (block5) of VGG16 model and our 
 Platform: Keras API (2.2.2) on top of TensorFlow GPU, tested on Windows10   
 Python 3.5.2   
 Jupyter Notebook 5.0.0  
-![alt text](https://github.com/saeed-tu/transfer_learning/blob/master/transfer_learning_fine_tune.tif)
+
+[[(https://github.com/saeed-tu/transfer_learning/blob/master/transfer_learning_fine_tune.tif|alt=octocat]]
